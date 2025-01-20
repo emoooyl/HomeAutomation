@@ -21,7 +21,7 @@
 .button {
     font-size: 25px;
     width: 495px;
-    height: 90px;
+    height: 80px;
     background-color: #d1c7bd;
     border: 10px; 
     border-radius: 2px;
@@ -32,7 +32,7 @@
 .button:hover {
     font-size: 25px;
     width: 475px;
-    height: 90px;
+    height: 80px;
     background-color: #ebe3db;
     border: 10px;
     border-radius: 2px;
