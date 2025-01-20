@@ -39,3 +39,7 @@ p1 {
 .text {
     text-align: center;
 }
+.image1 {
+  text-align: right;
+  font-weight: bold;
+}
