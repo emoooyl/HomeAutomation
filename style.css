@@ -17,16 +17,13 @@
             width: 40px;
             border-collapse: collapse;\
         }
-        li {
-            font-size: 25px;
-            padding: 7px 0px;
-        } 
+
         hl {
             text-align: center;
         } 
         .navbar ul{
                 list-style-type: none;
-                background-color:#f0f0f0;
+                background-color:#dark grey;
                 padding: 0px;
                 margin: 0px;
                 overflow: hidden; 
