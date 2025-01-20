@@ -30,7 +30,6 @@
         }
         .navbar a{ 
                 color: #4287f5;
-                padding: 15px;
                 display:block; 
                 text-align: center;
         }
@@ -38,12 +37,8 @@
                 background-color: grey;
         }
         .navbar li{
-                float: left;
+                float: right;
         }
-
-                
-                
-              
 
 .button {
     font-size: 15px;
@@ -68,12 +63,3 @@
     transition: background-color 0.3s ease, transform 0.3s ease;
 }
 
-.override-font {
-    font-size: 30px;
-} 
-
-.green-cell {
-       background-color: #98A869;
-       border: 5px solid black;
-       font-style: georgia;
-}
