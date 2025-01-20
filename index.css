@@ -19,6 +19,7 @@
     cursor: pointer;
     font-style: serif;
     transition: background-color 0.3s ease, transform 0.3s ease;
+    color: #837164;
 }
 .image1 {
   text-align: right;
