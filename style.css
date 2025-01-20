@@ -18,6 +18,9 @@
             border-collapse: collapse;\
             font-size: 25px;
         }
+        p {
+           font-size:25px;
+        }
        
 .button {
     font-size: 25px;
