@@ -23,7 +23,10 @@
            font-size:25px;
            color: #837164;
         }
-       
+
+        video {
+              padding: 7px;
+        }
 .button {
     font-size: 25px;
     width: 495px;
