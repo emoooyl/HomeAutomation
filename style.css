@@ -19,7 +19,7 @@
         }
        
 .button {
-    font-size: 15px;
+    font-size: 25px;
     width: 495px;
     height: 90px;
     background-color: #d1c7bd;
@@ -30,7 +30,7 @@
 }
 
 .button:hover {
-    font-size: 15px;
+    font-size: 25px;
     width: 475px;
     height: 90px;
     background-color: #ebe3db;
