@@ -20,7 +20,7 @@
        
 .button {
     font-size: 15px;
-    width: 500px;
+    width: 475px;
     height: 90px;
     background-color: #d1c7bd;
     border: 10px; 
@@ -31,7 +31,7 @@
 
 .button:hover {
     font-size: 15px;
-    width: 500px;
+    width: 475px;
     height: 90px;
     background-color: #ebe3db;
     border: 10px;
