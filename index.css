@@ -28,6 +28,7 @@
 body {
   background-color: #eeeae0;
 }
-.textclass {
-  color:#837164
+h1 {
+  color:#837164;
+  font-weight: bold;
 }
