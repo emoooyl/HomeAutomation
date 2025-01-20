@@ -27,6 +27,9 @@
         video {
               padding: 7px;
         }
+        img {
+             padding: 7px;
+        }
 .button {
     font-size: 25px;
     width: 495px;
