@@ -45,4 +45,7 @@
     font-style: serif;
     transition: background-color 0.3s ease, transform 0.3s ease;
 }
+.image1 {
+  text-align: right;
+  font-weight: bold;
 
