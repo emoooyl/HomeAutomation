@@ -30,6 +30,7 @@
         }
         .navbar a{ 
                 color: white; 
+                padding: 15px;
                 display:block; 
                 text-align: center;
         }
