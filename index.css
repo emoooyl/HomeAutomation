@@ -34,7 +34,7 @@ h1 {
   font-weight: bold;
 }
 p1 {
-  color:#988980;
+  color:#63574a;
   font-size: 23px;
 }
 .text {
@@ -52,7 +52,9 @@ p1 {
 }
 .list {
  font-size: 30px;
+ color: #63574a;
 }
 h2 {
 font-size: 27px;
+color: #63574a;
 }
