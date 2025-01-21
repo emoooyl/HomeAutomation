@@ -39,6 +39,9 @@ p1 {
 }
 .text {
     text-align: center;
+    font-weight: bold;
+    color:#837164;
+    font-size: 30px;
 }
 .image2 {
   text-align: right;
